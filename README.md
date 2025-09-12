@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tharun, an enthusiastic Engineering student with a passion for problem-solving and innovation. My interests span across various fields, including circuit design, video editing, and web development. I'm always eager to learn new technologies and apply them in creative projects.<br><br>💻 I enjoy tackling challenging problems, whether it's in the realm of coding, circuit design, or beyond. My projects often reflect my curiosity and dedication to finding efficient, scalable solutions.<br><br>🚀 Outside of academics, I spend my time experimenting with video editing, building websites, and exploring the latest trends in tech.<br><br>
+Hi, I'm Tharun, an enthusiastic Engineering student with a passion for problem-solving and innovation. My interests span across various fields, including circuit design, and web development. I'm always eager to learn new technologies and apply them in creative projects.<br><br>💻 I enjoy tackling challenging problems, whether it's in the realm of coding, circuit design, or beyond. My projects often reflect my curiosity and dedication to finding efficient, scalable solutions.<br><br>🚀 Outside of academics, I spend my time experimenting with video editing, building websites, and exploring the latest trends in tech.<br><br>
 
 
 ## 🌐 Socials:
