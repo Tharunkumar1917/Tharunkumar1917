@@ -32,7 +32,7 @@ I am an aspiring **Hardware Design Engineer** with strong interest in **VLSI and
 - Designed a **dual-port SRAM** enabling **simultaneous read and write** without bitline precharging  
 - Achieved **~30% power reduction** compared to conventional SRAM architectures  
 - Validated stability using **Hold, Read, and Write SNM**, including **Monte Carlo and PVT analysis**
-- 
+  
 ## 🔢 FSM-Based Sequential Multiplier (Datapath–Controller Architecture)
 📌 **Verilog RTL**
 
