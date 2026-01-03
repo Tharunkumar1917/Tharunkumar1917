@@ -32,6 +32,13 @@ I am an aspiring **Hardware Design Engineer** with strong interest in **VLSI and
 - Designed a **dual-port SRAM** enabling **simultaneous read and write** without bitline precharging  
 - Achieved **~30% power reduction** compared to conventional SRAM architectures  
 - Validated stability using **Hold, Read, and Write SNM**, including **Monte Carlo and PVT analysis**
+- 
+## 🔢 FSM-Based Sequential Multiplier (Datapath–Controller Architecture)
+📌 **Verilog RTL**
+
+- Designed a **16-bit FSM-controlled sequential multiplier** using a **modular datapath–controller architecture**
+- Implemented **iterative accumulation with counter-based control**, reducing hardware complexity compared to parallel multipliers
+- Applied **synthesis-ready RTL coding practices** with clear separation of **control and datapath** for timing-aware design
 
 ---
 
@@ -61,12 +68,6 @@ I am an aspiring **Hardware Design Engineer** with strong interest in **VLSI and
 - Enabled beam steering **without mechanical or electronic tuning**  
 - HFSS simulations validated **impedance matching, directional radiation, and efficient beam scanning**
   
-## 🔢 FSM-Based Sequential Multiplier (Datapath–Controller Architecture)
-📌 **Verilog RTL**
-
-- Designed a **16-bit FSM-controlled sequential multiplier** using a **modular datapath–controller architecture**
-- Implemented **iterative accumulation with counter-based control**, reducing hardware complexity compared to parallel multipliers
-- Applied **synthesis-ready RTL coding practices** with clear separation of **control and datapath** for timing-aware design
 
 ---
 
