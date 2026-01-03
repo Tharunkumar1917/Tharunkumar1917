@@ -33,12 +33,6 @@ I am an aspiring **Hardware Design Engineer** with strong interest in **VLSI and
 - Achieved **~30% power reduction** compared to conventional SRAM architectures  
 - Validated stability using **Hold, Read, and Write SNM**, including **Monte Carlo and PVT analysis**
   
-## 🔢 FSM-Based Sequential Multiplier (Datapath–Controller Architecture)
-📌 **Verilog RTL**
-
-- Designed a **16-bit FSM-controlled sequential multiplier** using a **modular datapath–controller architecture**
-- Implemented **iterative accumulation with counter-based control**, reducing hardware complexity compared to parallel multipliers
-- Applied **synthesis-ready RTL coding practices** with clear separation of **control and datapath** for timing-aware design
 
 ---
 
@@ -55,6 +49,11 @@ I am an aspiring **Hardware Design Engineer** with strong interest in **VLSI and
 - Designed a **two-road traffic signal controller** using **finite state machine (FSM)** principles  
 - Ensured clean state transitions and correct control sequencing through simulation
   
+**FSM-Based Sequential Multiplier (Datapath–Controller Architecture)**
+📌 *Verilog RTL*
+- Designed a **16-bit FSM-controlled sequential multiplier** using a **modular datapath–controller architecture**
+- Implemented **iterative accumulation with counter-based control**, reducing hardware complexity compared to parallel multipliers
+- Applied **synthesis-ready RTL coding practices** with clear separation of **control and datapath** for timing-aware design
 
 ---
 
